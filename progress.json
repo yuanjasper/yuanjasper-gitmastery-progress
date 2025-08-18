@@ -1,10 +1,19 @@
 [
   {
-    "exercise_name": "under-control",
-    "started_at": 1754980745.332437,
-    "completed_at": 1754980745.642225,
+    "exercise_name": "grocery-shopping",
+    "started_at": 1755482048.946633,
+    "completed_at": 1755482051.2734,
     "comments": [
-      "You successfully used git init to initialize this folder as a Git repository!"
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1755137639.355875,
+    "completed_at": 1755137639.64267,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
   },
@@ -18,11 +27,29 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "link-me",
-    "started_at": 1755137639.355875,
-    "completed_at": 1755137639.64267,
+    "exercise_name": "stage-fright",
+    "started_at": 1755481530.427782,
+    "completed_at": 1755481531.137744,
     "comments": [
-      "Great work with using git remote to add an upstream remote!"
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1754980745.332437,
+    "completed_at": 1754980745.642225,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755481222.939096,
+    "completed_at": 1755481223.237712,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
     ],
     "status": "Completed"
   }
